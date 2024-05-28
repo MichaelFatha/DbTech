@@ -1,0 +1,85 @@
+{
+    "name": "String",
+    "year_publiched": 1987,
+    "ISBN": "123",
+    "pageCount": 65,
+    "format": "String",
+    "edition": "String",
+    "publication_date": "2023-04-04",
+    "weight": 123,
+    "publisher": {
+        "publisherName": "String",
+        "founder": "String",
+        "website": "String",
+        "address": [
+            {
+                "street": "String",
+                "postal_code": "String",
+                "city": "String",
+                "country_name": "String",
+                "state_name": "String"
+            }
+        ]
+    },
+    "language_name": "String",
+    "genres": {
+        "genre_name": "String",
+        "description": "String"
+    },
+    "awards": {
+        "award_date": "date",
+        "award_name": "Stirng",
+        "award_year": 2000,
+        "organization_name": "String"
+    },
+    "events": {
+        "event_name": "String",
+        "event_date": "2020-05-05",
+        "description": "String"
+    },
+    "authors": [
+        {
+            "first_name": "String",
+            "last_name": "String",
+            "nationality": "String",
+            "biography": "String",
+            "website": "String",
+            "birth_date": "200-12-12"
+        }
+    ],
+    "book_series": {
+        "series_name": "Stirng",
+        "description": "String"
+    },
+    "reviews": [
+        {
+            "user_rating": 4.8,
+            "review_text": "String",
+            "review_date": "date",
+            "userid": {
+                "first_name": "String",
+                "last_name": "String",
+                "birth_date": "date",
+                "gender": "muž",
+                "age": 50,
+                "email": "nieco@gmail.com",
+                "address": [
+                    {
+                        "street": "String",
+                        "postal_code": "String",
+                        "city": "String",
+                        "country_name": "String",
+                        "state_name": "String"
+                    },
+                    {
+                        "street": "String",
+                        "postal_code": "String",
+                        "city": "String",
+                        "country_name": "String",
+                        "state_name": "String"
+                    }
+                ]
+            }
+        }
+    ]
+}

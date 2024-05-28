@@ -1,0 +1,85 @@
+{
+    "name": "Journey to the Unknown",
+    "year_published": 2005,
+    "ISBN": "978-0-12-345678-9",
+    "pageCount": 400,
+    "format": "E-book",
+    "edition": "Digital Edition",
+    "publication_date": "2005-09-30",
+    "weight": 0,
+    "publisher": {
+        "publisherName": "Digital Reads Publishing",
+        "founder": "Anna White",
+        "website": "https://www.digitalreadspublishing.com",
+        "address": [
+            {
+                "street": "456 Innovation Drive",
+                "postal_code": "94105",
+                "city": "San Francisco",
+                "country_name": "USA",
+                "state_name": "CA"
+            }
+        ]
+    },
+    "language_name": "English",
+    "genres": {
+        "genre_name": "Science Fiction",
+        "description": "Books that explore futuristic concepts, advanced technology, and space exploration."
+    },
+    "awards": {
+        "award_date": "2006-04-15",
+        "award_name": "Best Sci-Fi E-book",
+        "award_year": 2006,
+        "organization_name": "Sci-Fi Book Awards"
+    },
+    "events": {
+        "event_name": "Online Q&A with the Author",
+        "event_date": "2005-10-10",
+        "description": "An online question and answer session with the author about the book."
+    },
+    "authors": [
+        {
+            "first_name": "Michael",
+            "last_name": "Clark",
+            "nationality": "Canadian",
+            "biography": "Michael Clark is a celebrated science fiction writer, known for his imaginative storytelling.",
+            "website": "https://www.michaelclark.com",
+            "birth_date": "1975-07-20"
+        }
+    ],
+    "book_series": {
+        "series_name": "Galactic Adventures",
+        "description": "A series of science fiction novels that take readers on thrilling space journeys."
+    },
+    "reviews": [
+        {
+            "user_rating": 4.9,
+            "review_text": "A mind-blowing exploration of the future.",
+            "review_date": "2005-10-15",
+            "userid": {
+                "first_name": "Sarah",
+                "last_name": "Williams",
+                "birth_date": "1985-11-25",
+                "gender": "female",
+                "age": 38,
+                "email": "sarah.williams@example.com",
+                "address": [
+                    {
+                        "street": "789 Willow Lane",
+                        "postal_code": "98101",
+                        "city": "Seattle",
+                        "country_name": "USA",
+                        "state_name": "WA"
+                    },
+                    {
+                        "street": "321 Cedar Street",
+                        "postal_code": "60601",
+                        "city": "Chicago",
+                        "country_name": "USA",
+                        "state_name": "IL"
+                    }
+                ]
+            }
+        }
+    ]
+}

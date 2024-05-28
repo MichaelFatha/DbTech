@@ -1,0 +1,85 @@
+{
+    "name": "Mystery of the Lost Island",
+    "year_published": 1995,
+    "ISBN": "978-1-23-456789-0",
+    "pageCount": 280,
+    "format": "Paperback",
+    "edition": "Second Edition",
+    "publication_date": "1995-07-15",
+    "weight": 350,
+    "publisher": {
+        "publisherName": "Mystery Books Inc.",
+        "founder": "Emily Brown",
+        "website": "https://www.mysterybooks.com",
+        "address": [
+            {
+                "street": "789 Elm Street",
+                "postal_code": "90210",
+                "city": "Los Angeles",
+                "country_name": "USA",
+                "state_name": "CA"
+            }
+        ]
+    },
+    "language_name": "English",
+    "genres": {
+        "genre_name": "Mystery",
+        "description": "Books that involve solving a crime or uncovering secrets."
+    },
+    "awards": {
+        "award_date": "1996-11-20",
+        "award_name": "Best Mystery Novel",
+        "award_year": 1996,
+        "organization_name": "Mystery Writers Association"
+    },
+    "events": {
+        "event_name": "Book Launch",
+        "event_date": "1995-07-20",
+        "description": "Launch event for the book 'Mystery of the Lost Island' at the central library."
+    },
+    "authors": [
+        {
+            "first_name": "Robert",
+            "last_name": "Martin",
+            "nationality": "British",
+            "biography": "Robert Martin is a best-selling author known for his thrilling mystery novels.",
+            "website": "https://www.robertmartin.com",
+            "birth_date": "1960-05-05"
+        }
+    ],
+    "book_series": {
+        "series_name": "Island Mysteries",
+        "description": "A series of mystery novels set on various islands."
+    },
+    "reviews": [
+        {
+            "user_rating": 4.5,
+            "review_text": "A gripping tale that keeps you on the edge of your seat.",
+            "review_date": "1995-08-01",
+            "userid": {
+                "first_name": "John",
+                "last_name": "Doe",
+                "birth_date": "1980-10-10",
+                "gender": "male",
+                "age": 45,
+                "email": "john.doe@example.com",
+                "address": [
+                    {
+                        "street": "123 Maple Avenue",
+                        "postal_code": "30301",
+                        "city": "Atlanta",
+                        "country_name": "USA",
+                        "state_name": "GA"
+                    },
+                    {
+                        "street": "456 Birch Road",
+                        "postal_code": "60601",
+                        "city": "Chicago",
+                        "country_name": "USA",
+                        "state_name": "IL"
+                    }
+                ]
+            }
+        }
+    ]
+}
